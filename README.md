@@ -2,6 +2,8 @@
 
 An academic PHP and MySQL portal with separate patient, doctor, and administrator areas. The code includes appointment flows, records, messaging, and profile management.
 
+![Original DocConnect Portal logo](logo.png)
+
 ## Stack
 
 PHP, MySQL, HTML, CSS, JavaScript, and Composer packages.
