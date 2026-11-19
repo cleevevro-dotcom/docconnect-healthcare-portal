@@ -1,0 +1,6 @@
+{
+    "require": {
+        "league/oauth2-client": "*",
+        "google/apiclient": "2.12"
+    }
+}

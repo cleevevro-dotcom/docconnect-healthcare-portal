@@ -1,0 +1,7 @@
+/vendor/
+/storage/
+/Uploads/
+**/uploads/*
+!**/uploads/default_profile.png
+!**/uploads/default_clinic.jpg
+.env
